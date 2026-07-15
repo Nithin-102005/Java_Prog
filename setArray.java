@@ -17,6 +17,10 @@ public class setArray{
         System.out.println("The sum of array is "+ a);
        }
 
+       int c = a/b.length ;
+       System.out.println("The average of sum of array is :"+c);
+      
+       sc.close();
     }
     
 }
