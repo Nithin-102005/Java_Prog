@@ -8,7 +8,10 @@ public class method3 {
     public static void sub(int a,int b){
         System.out.println(a-b);
     }
-    public static void(int a,int b){
-        
+    public static void main(String[] args) {
+        add(5,5);
+        mul(5, 5);
+        sub(5, 5);
+       }
     }
-}
+
