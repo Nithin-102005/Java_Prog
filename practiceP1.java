@@ -11,7 +11,7 @@ public class practiceP1 {
         return Fib(n-1)+Fib(n-2);
      }
      public static void main(String[] args) {
-        System.out.println(Fib(10));
+        System.out.println(Fib(6));
         System.out.println(count);
      }
 }
